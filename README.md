@@ -23,5 +23,3 @@ You can click the Preview link to take a look at your changes.
 </div>
  
 <br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
